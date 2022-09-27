@@ -1,0 +1,17 @@
+.speechInputWrapper {
+  .speechInput {
+    border: none;
+    width: 100%;
+    padding: 10px;
+    outline: none;
+  }
+
+  .speechButtonIcon {
+    cursor: pointer;
+    min-width: 30px;
+  }
+
+  display: flex;
+  border: 1px solid #ddd;
+  width: 100%;
+}
